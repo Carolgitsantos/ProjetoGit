@@ -1,4 +1,4 @@
-# ProjetoGithub
+# INTRUÇÃO DE USO  GITHUB 👩‍💻 
 
 Como usar  o  github  de maneira fácil !
 
@@ -15,5 +15,5 @@ Emαil, senhα e usuαrio criαtivo
 
 𝘋𝘐𝘊𝘈 : 𝘵𝘦𝘯𝘩𝘢 𝘶𝘮 𝘤𝘢𝘥𝘢𝘴𝘵𝘳𝘰 𝘯𝘰 𝘭𝘪𝘯𝘬𝘦𝘥𝘪𝘯 𝘪𝘴𝘴𝘰 𝘴𝘦𝘳𝘢 𝘮𝘶𝘪𝘵𝘰 𝘪𝘮𝘱𝘰𝘳𝘵𝘢𝘯𝘵𝘦 𝘱𝘢𝘳𝘢 𝘴𝘶𝘢 𝘷𝘪𝘴𝘪𝘣𝘪𝘭𝘪𝘥𝘢𝘥𝘦 𝘯𝘰 𝘎𝘪𝘵𝘩𝘶𝘣 ! 
  
- E bora usar esse  universo de  coisas novas  👩‍💻 
+ E bora usar esse  universo de  coisas novas  👩‍💻  
 
