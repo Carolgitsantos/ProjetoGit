@@ -1,4 +1,4 @@
-# INTRUÇÃO DE USO  GITHUB 👩‍💻 
+# INSTRUÇÃO DE USO GITHUB 
 
 Como usar  o  github  de maneira fácil !
 
